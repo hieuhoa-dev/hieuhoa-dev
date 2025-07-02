@@ -1,4 +1,4 @@
-# Chào mừng đến với trang GitHub của tôi! 👋
+# Welcome to my GitHub page! 👋
 
 ### Hi, I'm Hieu Hoa 👋
 
