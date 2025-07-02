@@ -1,11 +1,11 @@
+<div align="center">
+
 # Welcome to my GitHub page! 👋
 
 ### Hi, I'm Hieu Hoa 👋
 
 ### My stats ⭐
 
-<!-- Snake Animation -->
-<div align="center">
 
 [![Hieu Hoa profile views](https://github-readme-stats.vercel.app/api?username=hieuhoa-dev&show_icons=true&theme=transparent)](https://u8views.com/github/hieuhoa-dev)
 
