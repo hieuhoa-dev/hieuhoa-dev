@@ -18,6 +18,20 @@
 
 </div>
 
+<!--Languages and Tools Section-->    
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="cencter" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
+<br />
+<br />
+<br />
+
+</div>
+
 <!-- Social connections -->
 <div align="center">
 
@@ -31,3 +45,8 @@
 
   ![snake gif](https://github.com/hieuhoa-dev/hieuhoa-dev/blob/output/github-snake-dark.svg)
 </div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
