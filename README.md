@@ -7,7 +7,7 @@
 ### My stats ⭐
 
 
-[![Hieu Hoa profile views](https://github-readme-stats.vercel.app/api?username=hieuhoa-dev&show_icons=true&theme=transparent)](https://u8views.com/github/hieuhoa-dev)
+[![Hieu Hoa profile views](https://github-readme-streak-stats-eight.vercel.app/?user=hieuhoa-dev&theme=radical&hide_border=true&short_numbers=true)](https://u8views.com/github/hieuhoa-dev)
 
 </div>
 <!-- Tech Stack -->
