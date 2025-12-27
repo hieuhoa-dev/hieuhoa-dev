@@ -8,7 +8,7 @@
 
 
 [![Hieu Hoa profile views](https://github-readme-streak-stats-eight.vercel.app/?user=hieuhoa-dev&theme=radical&hide_border=true&short_numbers=true)](https://u8views.com/github/hieuhoa-dev)
-
+![Visitor Count](https://count.getloli.com/get/hieuhoa-dev?theme=capoo-2)
 </div>
 <!-- Tech Stack -->
 <div align="center">
